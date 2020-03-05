@@ -1,0 +1,32 @@
+{
+  "name": "Tony",
+  "short_name": "Tony",
+  "theme_color": "#4482ff",
+  "background_color": "#2a2a2a",
+  "display": "browser",
+  "Scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "images/icons/profile-icon-64x64.png",
+      "sizes": "64x64",
+      "type": "image/png"
+    },
+    {
+      "src": "images/icons/profile-icon-128x128.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "images/icons/profile-icon-256x256.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    },
+    {
+      "src": "images/icons/profile-icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "splash_pages": null
+}
